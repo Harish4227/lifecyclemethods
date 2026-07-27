@@ -1,6 +1,6 @@
 # Ex.No:2 To create a HelloWorld Activity using all lifecycles methods to display messages.
-## Developed by: Sharveshwaran SS
-## Reg No : 212224220096
+## Developed by: Harish D
+## Reg No : 212224220034
 
 ### AIM:
 
